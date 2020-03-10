@@ -1,0 +1,32 @@
+Resultados:
+
+Quantidade de horarios utilizados (Cores):
+
+Escola A: 30
+
+Escola B: 25
+
+Escola C: 21
+
+Escola D: 25
+
+Tempo para cada iteração do algortimo (em segundos):
+
+Escola A: 0.7844468860000688
+
+Escola B: 0.8621047620000581
+
+Escola C: 0.0365346830000135
+
+Escola D: 1.5745542820000082
+
+Quantidade de vértices não coloridos:
+
+Escola A: 0
+
+Escola B: 60
+
+Escola C: 0
+
+Escola D: 172
+
